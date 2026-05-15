@@ -7,7 +7,7 @@ window.siteData = {
     actions: [
       { label: "Email", href: "mailto:n.balducci@pm.univpm.it", primary: true },
       { label: "LinkedIn", href: "https://www.linkedin.com/in/nicol%C3%B2-balducci-b164b5232/", primary: false },
-      { label: "GitHub", href: "https://github.com/N-Balducci", primary: false }
+      { label: "GitHub", href: "https://github.com/Nicolo-Balducci", primary: false }
     ],
     meta: [
       "Marche Polytechnic University (UNIVPM)",
@@ -42,7 +42,7 @@ about: [
     { label: "Supervisor — Francesco Venturini", href: "https://www.uniurb.it/persone/francesco-venturini" },
     { label: "Supervisor — Alessandro Sterlacchini", href: "https://www.univpm.it/Entra/Titolari_di_incarichi_dirigenziali/Alessandro_Sterlacchini_Direttore_Dipartimento_Dises" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/nicol%C3%B2-balducci-b164b5232/" },
-    { label: "GitHub", href: "https://github.com/N-Balducci" }
+    { label: "GitHub", href: "https://github.com/Nicolo-Balducci" }
   ],
 research: [
   {
