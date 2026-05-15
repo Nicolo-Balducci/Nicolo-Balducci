@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nicolò Balducci | Portfolio</title>
+  <meta name="description" content="Academic website of Nicolò Balducci, PhD candidate in Applied Economics." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="#top">NB</a>
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <div class="hero-intro">
+            <div class="hero-photo-wrap">
+              <img id="hero-photo" class="hero-photo" alt="Profile picture of Nicolò Balducci" />
+            </div>
+            <div>
+              <p class="eyebrow" id="hero-role"></p>
+              <h1 id="hero-name"></h1>
+            </div>
+          </div>
+          <p class="hero-text" id="hero-summary"></p>
+          <div class="hero-actions" id="hero-actions"></div>
+          <ul class="meta-list" id="hero-meta"></ul>
+        </div>
+        <aside class="hero-card">
+          <h2>Research snapshot</h2>
+          <div class="stat-grid" id="stats"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="container two-col">
+        <div>
+          <p class="section-label">Profile</p>
+          <h2>About</h2>
+          <div id="about-content" class="prose"></div>
+        </div>
+        <div class="panel">
+          <h3>Focus areas</h3>
+          <ul class="tag-list" id="research-tags"></ul>
+          <div class="divider"></div>
+          <h3>Current links</h3>
+          <div class="links-list" id="profile-links"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section alt" id="research">
+      <div class="container">
+        <p class="section-label">Research</p>
+        <h2>Fields of research</h2>
+        <div class="card-grid" id="research-grid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="experience">
+      <div class="container">
+        <p class="section-label">Academic path</p>
+        <h2>Experience & Education</h2>
+        <div class="timeline" id="timeline"></div>
+      </div>
+    </section>
+
+    <section class="section alt" id="publications">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <p class="section-label">Output</p>
+            <h2>Selected publications</h2>
+          </div>
+          <p class="section-note"></p>
+        </div>
+        <div class="publication-list" id="publication-list"></div>
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <div class="container contact-box">
+        <div>
+          <p class="section-label">Contact</p>
+          <h2>Get in touch</h2>
+          <p id="contact-text"></p>
+        </div>
+        <div class="contact-actions" id="contact-actions"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <p id="footer-text"></p>
+      <p class="footer-note"></p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
