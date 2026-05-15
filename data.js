@@ -2,7 +2,7 @@ window.siteData = {
   hero: {
     name: "Nicolò Balducci",
     role: "Final-year PhD Candidate in Applied Economics",
-    profileImage: "images/profile.png",
+    profileImage: "images/Profile.png",
     summary: "I am a final-year PhD candidate in Applied Economics specializing in green and digital innovation and firm-level productivity. My research examines how energy-saving and environmentally oriented technological innovation affects firm performance across European economies, combining applied microeconomic methods, econometrics, large-scale firm-level data, and text-mining techniques on patent documents.",
     actions: [
       { label: "Email", href: "mailto:n.balducci@pm.univpm.it", primary: true },
