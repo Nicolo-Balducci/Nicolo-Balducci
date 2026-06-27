@@ -66,6 +66,12 @@ research: [
       description: "Full-time PhD activity in Applied Economics, with research centered on green and digital innovation, productivity, and firm-level empirical analysis."
     },
     {
+  period: "Jun 2026",
+  title: "Conference Presenter — R&D Management Conference 2026",
+  institution: "Alliance Manchester Business School, University of Manchester, Manchester, UK",
+  description: "Presented the ongoing research work “Bridging Digital and Green Innovation: The Role of Technological Novelty” at the R&D Management Conference 2026, an international conference on R&D, technology and innovation management."
+},
+    {
       period: "Oct 2024 – Jan 2026",
       title: "Teaching Assistant in Microeconomics",
       institution: "Marche Polytechnic University, Ancona, Italy",
@@ -76,12 +82,6 @@ research: [
       title: "Visiting PhD Student",
       institution: "University of Valencia, Valencia, Spain",
       description: "Visiting PhD period devoted to research activity and international academic collaboration."
-    },
-    {
-      period: "Oct 2023 – Nov 2026",
-      title: "PhD in Economics",
-      institution: "Marche Polytechnic University",
-      description: "Doctoral training in economics with a focus on innovation, productivity, and empirical firm-level analysis."
     },
     {
       period: "Sep 2021 – Oct 2023",
