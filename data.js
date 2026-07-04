@@ -17,7 +17,7 @@ window.siteData = {
     stats: [
       { value: "1", label: "Journal article" },
       { value: "3", label: "Core research areas" },
-      { value: "2", label: "International academic experiences" },
+      { value: "4", label: "International academic experiences" },
       { value: "2026", label: "Update version" }
     ]
   },
@@ -65,6 +65,12 @@ research: [
       institution: "Marche Polytechnic University, Ancona, Italy",
       description: "Full-time PhD activity in Applied Economics, with research centered on green and digital innovation, productivity, and firm-level empirical analysis."
     },
+    {
+  period: "Jun 2026 – Jul 2026; Sep 2026 – Oct 2026",
+  title: "Visiting PhD Researcher",
+  institution: "King’s College London, King’s Business School / The Productivity Institute, London, UK",
+  description: "Visiting research period focused on productivity, innovation, patent data, and firm-level empirical analysis, with particular attention to green and digital technologies."
+},
     {
   period: "Jun 2026",
   title: "Conference Presenter — R&D Management Conference 2026",
