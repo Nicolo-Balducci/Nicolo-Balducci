@@ -64,7 +64,13 @@ research: [
       title: "PhD Student in Economics",
       institution: "Marche Polytechnic University, Ancona, Italy",
       description: "Full-time PhD activity in Applied Economics, with research centered on green and digital innovation, productivity, and firm-level empirical analysis."
-    },
+    },    
+{
+  period: "2026",
+  title: "Visiting Researcher",
+  institution: "Competition and Markets Authority (CMA), London, UK",
+  description: "Research collaboration focusing on firm-level innovation, mergers and acquisitions, and technological change. Worked with large-scale European firm-level and patent datasets, applying Python-based data processing, entity resolution, fuzzy matching, and patent text analysis to support empirical research on innovation, market dynamics, and competition policy."
+},
     {
   period: "Jun 2026 – Jul 2026; Sep 2026 – Oct 2026",
   title: "Visiting PhD Researcher",
